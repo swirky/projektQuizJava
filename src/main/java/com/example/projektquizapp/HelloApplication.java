@@ -18,6 +18,11 @@ public class HelloApplication extends Application {
     }
 
     public static void main(String[] args) {
+
         launch();
+
+        int siema=12;
+        System.out.println(siema);
+
     }
 }
